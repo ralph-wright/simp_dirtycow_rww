@@ -1,4 +1,1 @@
 ---
-
-logstash::logstash_user : 'logstash'
-logstash::logstash_group : 'logstash'

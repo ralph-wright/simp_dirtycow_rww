@@ -4,8 +4,8 @@
   "author": "SIMP",
   "summary": "SIMP module checking Dirty Cow Vulnerability",
   "license": "Apache-2.0",
-  "source": "https://github.com/simp/pupmod-simp_dirtycow",
-  "project_page": "https://github.com/simp/pupmod-simp_dirtycow",
+  "source": "https://github.com/simp/pupmod-simp-dirtycow",
+  "project_page": "https://github.com/simp/pupmod-simp-dirtycow",
   "issues_url": "https://simp-project.atlassian.net",
   "tags": [
     "simp",
@@ -19,7 +19,7 @@
     {
       "name": "simp/simplib",
       "version_requirement": ">= 2.0.0 < 3.0.0"
-    },
+    }
   ],
   "operatingsystem_support": [
     {

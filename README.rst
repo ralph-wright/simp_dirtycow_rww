@@ -7,7 +7,7 @@ Table of Contents
 -----------------
 
 #. `Overview <#overview>`__
-#. `Setup - The basics of getting started with simp_dirtycow <#setup>`__
+#. `Setup - The basics of getting started with dirtycow <#setup>`__
 #. `Limitations <#limitations>`__
 #. `Development - Guide for contributing to the module <#development>`__
 
