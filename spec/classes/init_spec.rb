@@ -8,8 +8,8 @@ describe 'dirtycow' do
       end
 
       context "on #{os}" do
-        it { is_expected.to compile.with_all_deps }
         it { is_expected.to create_class('dirtycow') }
+        it { is_expected.to compile.with_all_deps }
       end
     end
   end
